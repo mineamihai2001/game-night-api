@@ -4,7 +4,7 @@ import (
 	"context"
 	"log"
 
-	"github.com/mineamihai2001/game-night/helpers"
+	"github.com/mineamihai2001/game-night/internal/helpers"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 )

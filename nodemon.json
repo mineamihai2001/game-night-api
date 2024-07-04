@@ -1,5 +1,5 @@
 {
     "watch": ["main.go", "go.mod", ".env", "router", "helpers", "cmd", "internal"],
     "ext": "go",
-    "exec": "go run cmd/app/main.go"
+    "exec": "go run cmd/app/*.go"
 }
